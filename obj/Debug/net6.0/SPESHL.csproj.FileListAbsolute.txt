@@ -1,0 +1,15 @@
+H:\dev\SPESHL\bin\Debug\net6.0\SPESHL.exe
+H:\dev\SPESHL\bin\Debug\net6.0\SPESHL.deps.json
+H:\dev\SPESHL\bin\Debug\net6.0\SPESHL.runtimeconfig.json
+H:\dev\SPESHL\bin\Debug\net6.0\SPESHL.dll
+H:\dev\SPESHL\bin\Debug\net6.0\SPESHL.pdb
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.csproj.AssemblyReference.cache
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.GeneratedMSBuildEditorConfig.editorconfig
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.AssemblyInfoInputs.cache
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.AssemblyInfo.cs
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.csproj.CoreCompileInputs.cache
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.dll
+H:\dev\SPESHL\obj\Debug\net6.0\refint\SPESHL.dll
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.pdb
+H:\dev\SPESHL\obj\Debug\net6.0\SPESHL.genruntimeconfig.cache
+H:\dev\SPESHL\obj\Debug\net6.0\ref\SPESHL.dll
